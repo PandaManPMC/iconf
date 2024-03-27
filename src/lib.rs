@@ -1,5 +1,4 @@
-mod iconf;
-use iconf::configs;
+pub mod configs;
 
 #[cfg(test)]
 mod tests {
